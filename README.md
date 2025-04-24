@@ -5,6 +5,7 @@ Color customization json object for vscode.
 ### Instruction
 - Vscode => Settings => search for "apply to all profiles" => click on "edit in settings.json" => copy and paste "workbench.colorCustomization" object to your settings.json
 ```json
+  "workbench.colorCustomizations": {
     "editor.background": "#0d111a",
     "menu.background": "#0d111a",
     "menu.border": "#21212b",
